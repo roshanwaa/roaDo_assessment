@@ -20,3 +20,14 @@ a) Mention the logic to figure out legit and valid trips.*
 b) List down the assumptions made in the logic, if any
 c) Typescript code for the logic (It can be a GitHub link)*
 ```
+
+## Task 3: Deploy the below completed task on Heroku (Or can be hosted anywhere else as per your preference) ,share the link to the deployed web app and the code can be shared via GitHub link
+
+The task is to create a simple dashboard web app which is desktop and mobile compatible, frontend using React + Redux. You could use Next.js if it's any helpful to build an isomorphic web app. Material UI library can be used for UI components.  Every line of the code must be written by you with proper comments and explanations wherever necessary, UI is expected to be appealing and almost match the app in the design /  screenshots.
+Design / Figma link for reference : 
+
+[FIGMA DESIGN FILE](https://www.figma.com/file/Q1fHUanLgI8AUQpgplZ3uj/Another-free-dashboard-(Community)?type=design&node-id=1-470&mode=design&t=AYnjFk7eVwV33Gjv-0)
+
+[Google Drive](https://drive.google.com/drive/folders/1RDoVbXj4Pcf_nvrxRJG0anONpJxkFKXr)
+
+a) Hosted link and the GitHub link for the code.
